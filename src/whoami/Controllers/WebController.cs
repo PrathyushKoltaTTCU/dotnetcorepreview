@@ -16,7 +16,7 @@ namespace whoami.Controllers
         public ActionResult<string> Get()
         {             
             var osDescription = RuntimeInformation.OSDescription;
-            return $"I'm {_Host} running on {osDescription} and I am nhat";
+            return $"I'm {_Host} running on {osDescription} and I am craig jones";
         }
     }
 }
