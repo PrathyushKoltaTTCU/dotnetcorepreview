@@ -49,3 +49,4 @@ C:\Users\pkotla\OneDrive - Texas Tech Federal Credit Union\Desktop\whoami-dotnet
 C:\Users\pkotla\OneDrive - Texas Tech Federal Credit Union\Desktop\whoami-dotnet\src\whoami\obj\Debug\netcoreapp3.0\whoami.csproj.CopyComplete
 C:\Users\pkotla\OneDrive - Texas Tech Federal Credit Union\Desktop\whoami-dotnet\src\whoami\obj\Debug\netcoreapp3.0\whoami.dll
 C:\Users\pkotla\OneDrive - Texas Tech Federal Credit Union\Desktop\whoami-dotnet\src\whoami\obj\Debug\netcoreapp3.0\whoami.pdb
+C:\Users\pkotla\OneDrive - Texas Tech Federal Credit Union\Desktop\whoami-dotnet\src\whoami\obj\Debug\netcoreapp3.0\whoami.MvcApplicationPartsAssemblyInfo.cache
